@@ -11,7 +11,7 @@ I'm Malek Wahmi a Full Stack Javascript Developer . I Spend most of time coding 
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working Frelancer at @Xtasya
+- 🔭 I’m currently working Freelancer at @Xtasya
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 📫 How to reach me: wahmimalek@gmail.com.
 - ⚡ Fun fact: I play games and go to the GYM very often.
