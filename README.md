@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working  at @Elitech
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 📫 How to reach me: wahmimalek@gmail.com.
+
 
 
 #### Top Technologies
