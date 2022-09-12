@@ -1,4 +1,4 @@
-                                                <h1 align="center">Hi ! I'm Malek
+                                                <h1 align="center">Hi ! I'm Malek</h1>
 
 Have exposure♛ to building professional websites🖥 and front-end applications 💻. Experienced with a demonstrated history of working in the information technology and services industries🏢 . Skilled in FrontEnd Technologies✍️ as React.js, Redux, EcmaScript, JavaScript, HTML, CSS, Bootstrap, Flexbox, .GitHub, Net, SQL, and C# for web and window-based applications.
 
