@@ -7,4 +7,4 @@ Apart from my professional journey, I am a learner📝 and enthusiastic to learn
   Also, I play a role as a Front End Developer 📈 at ArabyAds apart from my existing role and responsibilities in the project. Getting an opportunity to interact with many people and sharing thoughts out of the box🗃.
 
 
-node updater.js ${{ github.repository_owner }} <themeName>
+node updater.js ${{ github.repository_MalekWahmi }} <googledark>
